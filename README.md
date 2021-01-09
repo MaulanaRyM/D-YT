@@ -10,8 +10,8 @@ $ pip install terminaltables
 ```
 # Penginstalan
 ```
-$ cd yt_download
-$ python yt.py
+$ cd D-YT
+$ python dyt.py
 ```
 
 *Have a nice day*
